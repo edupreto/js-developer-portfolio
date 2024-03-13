@@ -1,7 +1,7 @@
 
 
 async function fetchProfileData () {
-    const url = '';
+    const url = 'https://raw.githubusercontent.com/edupreto/js-developer-portfolio/main/data/profile.json';
     const fetching = await fetch(url)
     return await fetching.json()
 }
