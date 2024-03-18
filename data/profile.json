@@ -40,13 +40,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Página de Portfolio Pessoal 2023",
+      "url": "https://github.com/edupreto/Eduardo-Avelino-Portfolio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Primeiro desafio da Trilha de CSS: construindo uma landing page do curso com HTML e CSS.",
+      "url": "https://edupreto.github.io/trilha-css-desafio-01/",
+      "github": true
+    },
+    {
+      "name": "Criação de uma POKEDEX no Desafio Bootcamp Orange + Inter ",
+      "url": "https://github.com/edupreto/Pokedex_JS",
       "github": true
     }
   ],
