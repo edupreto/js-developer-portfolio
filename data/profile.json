@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/edupreto/js-developer-portfolio/main/assets/img/nodejs.svg"
+        "logo": "https://raw.githubusercontent.com/edupreto/js-developer-portfolio/main../img/nodejs.svg"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/edupreto/js-developer-portfolio/main/assets/img/java.svg"
+        "logo": "https://raw.githubusercontent.com/edupreto/js-developer-portfolio/main../img/java.svg"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/edupreto/js-developer-portfolio/main/assets/img/react.svg"
+        "logo": "https://raw.githubusercontent.com/edupreto/js-developer-portfolio/main../img/react.svg"
       },
       {
         "name": ".Net",
-        "logo": "https://raw.githubusercontent.com/edupreto/js-developer-portfolio/main/assets/img/dotnet.svg"
+        "logo": "https://raw.githubusercontent.com/edupreto/js-developer-portfolio/main../img/dotnet.svg"
       }
     ],
     "softSkills": [
